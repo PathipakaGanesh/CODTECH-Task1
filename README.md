@@ -1,10 +1,15 @@
 # Simple Python Calculator:
 
 Name: PATHIPAKA GANESH
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08WD497
+
 Domain: PYTHON PROGRAMMING
+
 Duration: 20 MAY TO 20 JUNE 2024
+
 Mentor: SRAVANI GOUNI
 
 **Overview of the Project**
@@ -13,9 +18,11 @@ Mentor: SRAVANI GOUNI
 This is a simple calculator application built using Python 3 and Tkinter for the GUI.
 
 **Requirements:**
+
 Python 3.x
 Tkinter (comes pre-installed with Python)
 Setup
+
 **Ensure Python is installed:**
 
 Download and install Python from python.org.
