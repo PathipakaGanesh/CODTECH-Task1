@@ -56,4 +56,4 @@ The calculator supports basic arithmetic operations and can handle simple expres
 
 ## GUI Image
 
-<img src="images/calculator.png" width="500" height="400" />
+<img src="calculator.png" width="500" height="400" />
